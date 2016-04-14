@@ -10,3 +10,9 @@ An npm module to quickly provisioning and deployment of Windows Azure (plus more
 Just run ``npm i -g rocket-deploy``
 
 Then `rocket-deploy init` to be guided through
+
+# commands
+
+``rocket-deploy i, --init`` Run this once to set everything up
+``rocket-deploy d, --deploy`` This runs the FTP deployment
+``rocket-deploy p, --provision`` Run this once to seperately create your azure website
