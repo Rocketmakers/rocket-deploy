@@ -1,0 +1,24 @@
+{
+  "name": "rocket-deploy",
+  "description": "Allows you to quickly provision and deploy to Windows Azure (plus more soon!) websites for prototyping and fast client demos",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Rocketmakers"
+  },
+  "keywords": [
+    "azure", "deploy", "ftp"
+  ],
+  "bin": {
+    "rocket-deploy": "./index.js"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "copy-files": "^0.1.0",
+    "figlet": "^1.1.1",
+    "ftp-client": "^0.2.2",
+    "inquirer": "^1.0.0",
+    "jsonfile": "^2.2.3"
+  },
+  "preferGlobal": true
+}
