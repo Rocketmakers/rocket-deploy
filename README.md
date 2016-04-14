@@ -8,3 +8,5 @@ An npm module to quickly provisioning and deployment of Windows Azure (plus more
 
 # getting started
 Just run ``npm i -g rocket-deploy``
+
+Then `rocket-deploy init` to be guided through
