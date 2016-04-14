@@ -13,6 +13,6 @@ Then `rocket-deploy init` to be guided through
 
 # commands
 
-``rocket-deploy i, --init`` Run this once to set everything up
-``rocket-deploy d, --deploy`` This runs the FTP deployment
+``rocket-deploy i, --init`` Run this once to set everything up<br/>
+``rocket-deploy d, --deploy`` This runs the FTP deployment<br/>
 ``rocket-deploy p, --provision`` Run this once to seperately create your azure website
