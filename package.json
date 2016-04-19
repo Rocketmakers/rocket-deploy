@@ -6,6 +6,10 @@
   "author": {
     "name": "Rocketmakers"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rocketmakers/rocket-deploy.git"
+  },
   "keywords": [
     "azure", "deploy", "ftp"
   ],
