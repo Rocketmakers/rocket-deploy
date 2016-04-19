@@ -3,7 +3,7 @@ var inquirer = require('inquirer');
 var fs = require('fs');
 var jsonfile = require('jsonfile');
 var util = require('util');
-var azure = require('./azure');
+var azure = require('./azure/azure');
 var path = require('path');
 var copy = require('copy-files');
 

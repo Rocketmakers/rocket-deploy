@@ -5,7 +5,7 @@ var fs = require('fs');
 var path = require('path');
 var init = require('./init.js');
 var ftp = require('./ftp.js');
-var azure = require('./azure.js');
+var azure = require('./azure/azure.js');
 var jsonfile = require('jsonfile');
 
 var configPath = path.join(process.cwd(), 'config.json');
