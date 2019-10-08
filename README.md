@@ -1,4 +1,7 @@
 # rocket-deploy
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Rocketmakers/rocket-deploy.svg)](https://greenkeeper.io/)
+
 An npm module to quickly provisioning and deployment of Windows Azure (plus more soon!) websites for prototyping and fast client demos
 
 # requisites
