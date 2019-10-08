@@ -17,12 +17,12 @@
     "rocket-deploy": "./index.js"
   },
   "dependencies": {
-    "commander": "^2.9.0",
+    "commander": "^3.0.2",
     "copy-files": "^0.1.0",
     "figlet": "^1.1.1",
     "ftp-client": "^0.2.2",
-    "inquirer": "^1.0.0",
-    "jsonfile": "^2.2.3"
+    "inquirer": "^7.0.0",
+    "jsonfile": "^5.0.0"
   },
   "preferGlobal": true
 }
